@@ -112,10 +112,10 @@
 	body {
 		height: 100%;
 		background-color: #ffffff;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(144, 238, 144, 0.5) 5%, rgba(46, 139, 87, 0.35)), url("images/trees.jpeg");
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(144, 238, 144, 0.5) 5%, rgba(46, 139, 87, 0.35)), url("images/trees.jpeg");
-		background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(144, 238, 144, 0.5) 5%, rgba(46, 139, 87, 0.35)), url("images/trees.jpeg");
-		background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(144, 238, 144, 0.5) 5%, rgba(46, 139, 87, 0.35)), url("images/trees.jpeg");
+		background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(144, 238, 144, 0.3) 5%, rgba(46, 139, 87, 0.35)), url("images/motrees.jpg");
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(144, 238, 144, 0.3) 5%, rgba(46, 139, 87, 0.35)), url("images/motrees.jpg");
+		background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(144, 238, 144, 0.3) 5%, rgba(46, 139, 87, 0.35)), url("images/motrees.jpg");
+		background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(144, 238, 144, 0.3) 5%, rgba(46, 139, 87, 0.35)), url("images/motrees.jpg");
 		background-repeat: repeat,			no-repeat,			no-repeat;
 		background-size: 100px 100px, cover,				cover;
 		background-position: top left,		center center,		bottom center;
